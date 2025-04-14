@@ -56,12 +56,6 @@
 
 [pull]
   rebase = false
-<<<<<<< HEAD
 [user]
 	email = martinlechner89@outlook.de
 	name = Martin Lechner
-=======
-
-[init]
-  defaultBranch = master
->>>>>>> upstream/master
